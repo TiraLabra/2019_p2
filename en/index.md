@@ -59,18 +59,33 @@ Detailed course timing is available [here](timing/).
  * Sign in with your University of Helsinki account.
 
 ## IRC and telegram
-The course IRC channel is **#tiralabra** @IRCnet.
-The Telegram channel can be found [here](https://t.me/tkttiralabra).
+
+* The course IRC channel is **#tiralabra** @IRCnet.
+* The Telegram channel can be found [here](https://t.me/tkttiralabra).
 
 Generally the Telegram and IRC chats are linked (bridged) together, so the course assistant will be available through both channels.
 
 ## Guidance
 
-<!--* There is no weekly course assistance during the summer intensive period. If you want face to face assistance on campus please contact the course assistant.-->
-* The primary guidance for the course is organized in conjunction with the algorithm workshop on Fridays. See calendar.
-* You can attend the algorithm workshow at other times as well to get help with data structures or algorithms. The assistant may not be able to help you with course specific things other than on Fridays.
-* You may also contact the course assistant through [Telegram](https://t.me/tkttiralabra) or IRC.
-* E-mail also works.
+<ul>
+<script>
+var script = document.scripts[document.scripts.length - 1];
+if (timing["paja1"]) {
+  var elem = document.createElement("li");
+  elem.innerHTML = "Guidance is available at the times and places indicated in the calendar.";
+  script.parentElement.insertBefore(elem, script);
+  elem = document.createElement("li");
+  elem.innerHTML = "You can attend the algorithm workshop at any time as well to get help with data structures or algorithms. The assistant may not be able to help you with course specific things other than at specified times.";
+  script.parentElement.insertBefore(elem, script);
+} else {
+  var elem = document.createElement("li");
+  elem.innerHTML = "There is no weekly course assistance during intensive periods. If you want face to face assistance on campus please contact the course assistant.";
+  script.parentElement.insertBefore(elem, script);
+}
+</script>
+<li>You may also contact the course assistant through<a href="https://t.me/tkttiralabra">Telegram</a> or IRC.</li>
+<li>E-mail also works.</li>
+</ul>
 
 ## Demonstration
 

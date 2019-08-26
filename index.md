@@ -65,18 +65,33 @@ Tarkempi aikataulu [täällä](fi/aikataulu/).
  * Kirjaudu Yliopiston tunnuksilla.
 
 ## IRC ja telegram
-Kurssin IRC-kanava on **#tiralabra** @IRCnet.
-Kurssin [telegram-kanava](https://t.me/tkttiralabra).
+
+* Kurssin IRC-kanava on **#tiralabra** @IRCnet.
+* Kurssin [telegram-kanava](https://t.me/tkttiralabra).
 
 Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsiksi kumpaakin kautta.
 
 ## Ohjaus
 
-<!-- * Kesän intensiivikursseilla ei järjestetä viikottaista pajaa. Jos haluat henkilökohtaista ohjausta kumpulassa niin ota yhteyttä ohjaajaan.-->
-* Pajaohjausta järjestetään parjantaisin algoritmipajan yhteydessä. Ks. kalenteri.
-* Algopajasta voi myös muihin aikoihin pyytää apua aloritmeihin liittyen.
-* Voit myös ottaa yhteyttä [Telegramissa](https://t.me/tkttiralabra) tai ircissä.
-* Tai tarvittaessa sähköpostilla.
+<ul>
+<script>
+var script = document.scripts[document.scripts.length - 1];
+if (timing["paja1"]) {
+  var elem = document.createElement("li");
+  elem.innerHTML = "Pajaohjausta järjestetään kalenterissa näkyviin aikoihin.";
+  script.parentElement.insertBefore(elem, script);
+  elem = document.createElement("li");
+  elem.innerHTML = "Algopajasta voi myös muihin aikoihin pyytää apua aloritmeihin liittyen.";
+  script.parentElement.insertBefore(elem, script);
+} else {
+  var elem = document.createElement("li");
+  elem.innerHTML = "Kesän intensiivikursseilla ei järjestetä viikottaista pajaa. Jos haluat henkilökohtaista ohjausta kumpulassa niin ota yhteyttä ohjaajaan";
+  script.parentElement.insertBefore(elem, script);
+}
+</script>
+<li>Voit myös ottaa yhteyttä <a href="https://t.me/tkttiralabra">Telegramissa</a> tai ircissä.</li>
+<li>Tai tarvittaessa sähköpostilla.</li>
+</ul>
 
 ## Demotilaisuus
 

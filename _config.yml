@@ -2,7 +2,7 @@ title: "Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - 2019 p1"
 email: ''
 description: >- # this means to ignore newlines until "baseurl:"
   Helsingin yliopiston Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - kurssin kurssisivu
-baseurl: '/2019_loppukesa' # the subpath of your site, e.g. /blog
+baseurl: '/2019_p1' # the subpath of your site, e.g. /blog
 url: https://saskeli.github.io/2019_p1 # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
