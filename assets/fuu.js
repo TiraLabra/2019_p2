@@ -1,17 +1,17 @@
 const timing = {
     "start": {"date": "2019-09-04", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 C222"},
-    "paja": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
-    "paja": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
-    "paja": {"date": "2019-09-20", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-09-27", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-10-04", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-10-04", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
-    "paja": {"date": "2019-10-11", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-10-11", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
-    "paja": {"date": "2019-10-18", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
-    "paja": {"date": "2019-10-18", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
+    "paja1": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja2": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
+    "paja3": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja4": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
+    "paja5": {"date": "2019-09-20", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja6": {"date": "2019-09-27", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja7": {"date": "2019-10-04", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja8": {"date": "2019-10-04", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
+    "paja9": {"date": "2019-10-11", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja10": {"date": "2019-10-11", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
+    "paja11": {"date": "2019-10-18", "en": "Workshop", "fi": "Paja", "common": "10-12 B221"},
+    "paja12": {"date": "2019-10-18", "en": "Workshop", "fi": "Paja", "common": "16-18 B221"},
     "dl1": {"date": "2019-09-07T01:59:59+03:00", "en": "DL 1", "fi": "DL 1"},
     "dl2": {"date": "2019-09-14T01:59:59+03:00", "en": "DL 2", "fi": "DL 2"},
     "dl3": {"date": "2019-09-21T01:59:59+03:00", "en": "DL 3", "fi": "DL 3"},
@@ -22,7 +22,7 @@ const timing = {
     "end": {"date": "2019-10-25T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
-//const doodleSent = true;
+const doodleSent = false;
 
 const enDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const enMonths = ["Jan.", "Feb.", "Mar.", "Apr.", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
