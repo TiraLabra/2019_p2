@@ -33,7 +33,7 @@ Detailed course timing is available [here](timing/).
    }
  </script>
  * The final submission deadline is on <script>document.write(enString(timing["end"].date));</script>. There are no time extensions available.
- * If you find something to fix/improve on the course pages, please submit a Pull Request with the fix ([instructions]( 	bug_bounty.md)). A bug bounty of 1 course point will be awarded for significant fixes (capped at 1 per student).
+ * If you find something to fix/improve on the course pages, please submit a Pull Request with the fix ([instructions]( 	bug_bounty/)). A bug bounty of 1 course point will be awarded for significant fixes (capped at 1 per student).
 
 ## Links to course material
 
