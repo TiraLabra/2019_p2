@@ -55,7 +55,7 @@ Detailed course timing is available [here](timing/).
 
 ## 🗒️ Labtool
 
- * [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
+ * [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
  * Sign in with your University of Helsinki account.
 
 ## IRC and telegram
