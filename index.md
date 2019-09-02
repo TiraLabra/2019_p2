@@ -61,7 +61,7 @@ Tarkempi aikataulu [täällä](fi/aikataulu/).
 
 ## 🗒️ Labtool
 
- * [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
+ * [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
  * Kirjaudu Yliopiston tunnuksilla.
 
 ## IRC ja telegram
