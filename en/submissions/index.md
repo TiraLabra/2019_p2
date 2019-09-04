@@ -29,4 +29,4 @@ Here are some example questions that you can answer in the weekly reports:
 
 You can also add direct questions and feedback to the course assistant to the weekly report. These will hopefully be answered in the labtool feedback.
 
-## You get feedback on your weekly progress through [labtool](https://studies.cs.helsinki.fi/labtool/).
+## You get feedback on your weekly progress through [labtool](https://study.cs.helsinki.fi/labtool/).

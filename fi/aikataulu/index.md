@@ -17,7 +17,7 @@ permalink: /fi/aikataulu/
 	* Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit (nopeuttaa tarkastusta huomattavasti). Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
     * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
     * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](../issuet/)
-    * Rekisteröidytty kurssille labtoolissa: [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
+    * Rekisteröidytty kurssille labtoolissa: [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
     * Labtoolin [pikaohje](../labtool/)
 
 # Viikko 2:
@@ -39,7 +39,7 @@ permalink: /fi/aikataulu/
 
 # Viikko 4:
 
-* Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://studies.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
+* Ensimmäiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin viikon 5 deadline.**
 * Ohjeet vertaisarviointiin [täällä](../vertaisarvioinnit/)
 * Salli issuet vertaisarviointia varten, katso [Issueiden luonnin salliminen repoon](../issuet/)
 
@@ -51,10 +51,10 @@ permalink: /fi/aikataulu/
 
 # Viikko 5:
 
-* Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://studies.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin DL 6.**
+* Toiset vertaisarvioinnit jaetaan viikon palautuksen jälkeen. Katso [labtoolista](https://study.cs.helsinki.fi/labtool/) linkki katselmoitavaan repoon. **Vertaisarvionnin deadline on sama kuin DL 6.**
 
 * Palautus 5: **<script>document.write(fiString(timing["dl5"].date));</script>**
-   * Ensimmäinen vertaisarviointi tehtynä (Löydät linkin katselmoitavaan repoon [labtoolista](https://studies.cs.helsinki.fi/labtool/))
+   * Ensimmäinen vertaisarviointi tehtynä (Löydät linkin katselmoitavaan repoon [labtoolista](https://study.cs.helsinki.fi/labtool/))
    * [Dokumentaatio](../dokumentaatio/): Koodi kommentoitua. Aloitettu kirjoittamaan toteutus- ja testausdokumentaatiota.
    * Viikkoraportti numero 5
    * Ohjelma: Ohjelman ydintoiminta valmis. Omia tietorakenteita aloitettu.
@@ -63,7 +63,7 @@ permalink: /fi/aikataulu/
 # Viikko 6:
 
 * Palautus 6: **<script>document.write(fiString(timing["dl6"].date));</script>**
-   * **Toinen vertaisarviointi tehtynä** (löydät linkin katselmoitavaan repoon [labtoolista](https://studies.cs.helsinki.fi/labtool/))
+   * **Toinen vertaisarviointi tehtynä** (löydät linkin katselmoitavaan repoon [labtoolista](https://study.cs.helsinki.fi/labtool/))
    * [Dokumentaatio](../dokumentaatio/): Kirjoitettu koodi kommentoitua. Toteutus- ja testausdokumentaatiota kirjoitettu.
    * Viikkoraportti numero 6
    * Ohjelma: Tietorakenteet ja algoritmit toteutettu itse.

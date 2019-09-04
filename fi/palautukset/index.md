@@ -30,4 +30,4 @@ Vastaa kirjoituksessa esimerkiksi seuraaviin kysymyksiin:
 
 Voit sisällyttää viikkoraporttin myös palautetta tai kysymyksiä kurssin ohjaajalle, kysymyksiin pyritään vastaamaan viikkopalautteessa.
 
-## Saat viikottaista palautetta [labtoolin](https://studies.cs.helsinki.fi/labtool/) avulla.
+## Saat viikottaista palautetta [labtoolin](https://study.cs.helsinki.fi/labtool/) avulla.

@@ -17,7 +17,7 @@ permalink: /en/timing/
     * Make sure that you have linked your weekly report and project specification to the repository front page to ease grading. If you need help with Markdown you can check this [guide](https://guides.github.com/features/mastering-markdown/), ask for help from the course assistant or just look at the source code for this file!
     * Project: Project has been created. Check [here](../maven-gradle/) for instructions if needed. GitHub version control is set up. Everything that needs to be submitted has been added to version control, nothing is submitted by email or pidgeon!
     * Enable adding issues to your repository for code reviews. [enabling issues](../issues/)
-    * Register to Labtool: [https://studies.cs.helsinki.fi/labtool/](https://studies.cs.helsinki.fi/labtool/)
+    * Register to Labtool: [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
     * [Quick guide](../labtool/) for Labtool.
 
 # Week 2:
@@ -54,7 +54,7 @@ permalink: /en/timing/
 * The second round of code reviews will be given out after the week 5 deadline. Check Labtool for a link to the repository to review. **The deadline for the second code review is the same as the week 6 deadline.**
 
 * Submission 5: **<script>document.write(enString(timing["dl5"].date));</script>**
-   * **The first code review is completed**. (See [Labtool](https://studies.cs.helsinki.fi/labtool/) for link to repository)
+   * **The first code review is completed**. (See [Labtool](https://study.cs.helsinki.fi/labtool/) for link to repository)
    * [Documentations](../documentation/): Written code is clear and commented. Started on testing and implementation documentation.
    * Week 5 report.
    * Program: Core functionality of program is complete. Working on implementing data structures and algorithms.
@@ -63,7 +63,7 @@ permalink: /en/timing/
 # Week 6:
 
 * Submission 6: **<script>document.write(enString(timing["dl6"].date));</script>**
-   * **The first code review is completed**. (See [Labtool](https://studies.cs.helsinki.fi/labtool/) for link to repository)
+   * **The first code review is completed**. (See [Labtool](https://study.cs.helsinki.fi/labtool/) for link to repository)
    * [Documentation](../documentation/): Written code is clear and commented. Mostly done with testing and implementation documentation.
    * Week 6 report.
    * Program: Data structures and algorithms implemented from scratch.
