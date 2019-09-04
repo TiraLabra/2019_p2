@@ -69,7 +69,7 @@ permalink: /fi/aikataulu/
    * Ohjelma: Tietorakenteet ja algoritmit toteutettu itse.
    * Testaus: Koodin *kattava* yksikkötestaus. Suorituskykytestausta tehty.
 
-# Demo tilaisuus:
+# Demotilaisuus:
 
 * <script>
   if (timing["demo"]) {
