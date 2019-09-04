@@ -10,7 +10,7 @@
 
 - Telegram-kanava https://t.me/tkttiralabra/
 - IRC-kanava **#tiralabra** @ IRCnet
-- Kurssisivu https://github.com/TiraLabra/2019_p1
+- Kurssisivu https://tiralabra.github.io/2019_p1/
 
 # Mistä kyse?
 
@@ -102,6 +102,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://github.com/TiraLabra/2019_p1
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2019_p1/
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
