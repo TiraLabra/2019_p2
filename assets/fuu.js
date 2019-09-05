@@ -1,6 +1,6 @@
 const timing = {
     "start": {"date": "2019-09-04", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 C222"},
-    "paja1": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "10-12 BK107"},
+    "paja1": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "10-12 C221?"},
     "paja2": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
     "paja3": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "10-12 BK107"},
     "paja4": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
