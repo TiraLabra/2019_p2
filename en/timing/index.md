@@ -27,7 +27,11 @@ permalink: /en/timing/
     * Week 2 report: see [submissions](../submissions/)
     * Program: Work on implementing the core functionality has been started possibly using library implementations of algorithms and data structures. These will later be replaced with self-made implementations, but in many cases it's easier to use library implementations first.
     * Testing: *Comprehensive* unit testing of the code. (e.g. JUnit tests for Java)
-		* Ensure that when creating new classes you also create tests as soon as possible (preferably in the same submission as the class was created) to make sure that you new implementations work as expected. See [supplementary material on testing](https://github.com/TiraLabra/Testing-and-rmq) if needed (Finnish).
+        * Ensure that when creating new classes you also create tests as soon as possible (preferably in the same submission as the class was created) to make sure that you new implementations work as expected. See [supplementary material on testing](https://github.com/TiraLabra/Testing-and-rmq) if needed.
+    * Preferably some tool for test coverage should be configured by now.
+        * For java there are some instructions here for [PIT and jacoco](../maven-gradle). Codecov is also an option.
+        * For other languages a code coverage should be provided each week for example through Codecov or github pages.
+    * Checkstyle or a similar code quality reporting tool would also be beneficial.
 
 # Week 3:
 
@@ -36,6 +40,8 @@ permalink: /en/timing/
     * Week 3 report.
     * Program: Werk on implementing core functionality has continued. Possibly started implementing data structures.
     * Testing: *Comprehensive* unit testing of the code.
+    * By this submission at the latest, test coverage should be available to the teaching staff weekly.
+    * Checktyle or a similar code quality tool should also be in use by this time.
 
 # Week 4:
 

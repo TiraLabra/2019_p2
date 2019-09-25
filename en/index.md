@@ -37,6 +37,8 @@ Detailed course timing is available [here](timing/).
 
 ## Links to course material
 
+* [Slides for the lecture](../kalvot/aloitusluento.pdf) (in Finnish)
+
 * [Detailed course schedule](timing/)
 
 * [Topic ideas](topics)

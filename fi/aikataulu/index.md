@@ -28,6 +28,10 @@ permalink: /fi/aikataulu/
     * Ohjelma: Aloitettu ydinalueen toteutus käyttäen tarvittaessa esim. Javan valmiita tietorakenteita (ArrayList, HashMap yms.). Nämä korvataan myöhemmin omilla tietorakenteilla, mutta useissa tapauksissa ohjelman toteutus on helpompi aloittaa jostain muusta kuin tietorakenteista.
     * Testaus: Koodin *kattava* yksikkötestaus. (esim. Javalla tehdyssä työssä JUnit)
 		* Varmista, että kun teet luokkia niin olet myös testannut ne mahdollisimman nopeasti/aikaisin (mieluiten testit samassa palautuksessa, kuin luokat on koodattu). Siten tiedät, että koodi, jonka juuri kirjoitit toimii kuten haluat. Tarvittaessa tutustu [yksikkötestaukseen tukimateriaalissa](https://github.com/TiraLabra/Testing-and-rmq).
+    * Olisi erittäin suositeltavaa että jo tässä vaiheessa projektin testikattavuus olisi seurattavissa.
+        * Javalla vaihtoehtoina esimerkiksi PIT, jacoco tai codecov. Jotain ohjeita löytyy [täältä](../mave-gradle).
+        * Muilla kielillä pitäisi viikoittain laittaa kattavuusraportti jonnekin näkyville. (Esim. codecov tai github pages).
+    * Myös checkstyle olisi hyvä olla konffattuna jo tässä vaiheessa jos ohjelmoit javalla.
 
 # Viikko 3:
 
@@ -36,6 +40,8 @@ permalink: /fi/aikataulu/
     * Viikkoraportti numero 3
     * Ohjelma: Ohjelman ydinalue edennyt, aloitettu mahdollisesti jo omien tietorakenteiden toteutus.
     * Testaus: Koodin *kattava* yksikkötestaus.
+    * Viimeistään tässä vaiheessa testikattavuuden olisi oltava käytettävissä viikkotarkastuksissa.
+    * Viimeistään tässä vaiheessa checkstylen tai vastaavan koodin laadun seurannan tulisi olla käytössä.
 
 # Viikko 4:
 

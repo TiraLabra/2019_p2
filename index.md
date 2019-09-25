@@ -43,6 +43,8 @@ Tarkempi aikataulu [täällä](fi/aikataulu/).
 
 ## Linkkejä materiaaliin
 
+* [Aloitusluennon kalvot](kalvot/aloitusluento.pdf)
+
 * [Tarkka aikataulu](fi/aikataulu)
 
 * [Aiheideoita](fi/aiheet)
