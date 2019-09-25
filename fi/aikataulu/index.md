@@ -95,11 +95,11 @@ permalink: /fi/aikataulu/
 * **Dokumentaatio:**
     * 100% selkeää ja kommentoitu koodi (jos käytit Javaa, generoi Javadoc ja lisää palautukseen)
     * Valmiit dokumentit:
-         * Määrittelydokumentti (ei tarvitse päivittää alkuperäisestä)
-         * Toteutusdokumentti
-         * Testausdokumentti
-         * Viikkoraportit
-         * Käyttöohje
+        * Määrittelydokumentti (ei tarvitse päivittää alkuperäisestä)
+        * Toteutusdokumentti
+        * Testausdokumentti
+        * Viikkoraportit
+        * Käyttöohje
 
 * **Ohjelma:**
     * Mielellään suoritettava ohjelma [github releasena](https://help.github.com/en/articles/creating-releases) (esim. jar-tiedosto)

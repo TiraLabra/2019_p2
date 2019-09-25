@@ -32,8 +32,8 @@ Detailed course timing is available [here](timing/).
     document.write("A poll will be sent out around the half way point of the course to schedule demo session(s).");
    }
  </script>
- * The final submission deadline is on <script>document.write(enString(timing["end"].date));</script>. There are no time extensions available.
- * If you find something to fix/improve on the course pages, please submit a Pull Request with the fix ([instructions]( 	bug_bounty/)). A bug bounty of 1 course point will be awarded for significant fixes (capped at 1 per student).
+* The final submission deadline is on <script>document.write(enString(timing["end"].date));</script>. There are no time extensions available.
+* If you find something to fix/improve on the course pages, please submit a Pull Request with the fix ([instructions]( 	bug_bounty/)). A bug bounty of 1 course point will be awarded for significant fixes (capped at 1 per student).
 
 ## Links to course material
 
@@ -57,8 +57,8 @@ Detailed course timing is available [here](timing/).
 
 ## 🗒️ Labtool
 
- * [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
- * Sign in with your University of Helsinki account.
+* [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
+* Sign in with your University of Helsinki account.
 
 ## IRC and telegram
 
@@ -125,16 +125,16 @@ Generally a good approach to incrementally complete a project has been to first 
 
 ## 📈 Grading criteria
 * Program: 30 p
-   * Functionality and features 10 p
-   * Testing 10 p
-   * Code documentation (JavaDoc and self documenting) 5 p
-   * Clarity of the code 5 p
+    * Functionality and features 10 p
+    * Testing 10 p
+    * Code documentation (JavaDoc and self documenting) 5 p
+    * Clarity of the code 5 p
 
 * Documentation 10 p
-   * Topic definition 2p
-   * Implementation 3p
-   * Testing 3p (unit- and performance-!)
-   * User guide 2p
+    * Topic definition 2p
+    * Implementation 3p
+    * Testing 3p (unit- and performance-!)
+    * User guide 2p
 
 * During the course 20p
     * Code reviews 2 * 2p = 4p

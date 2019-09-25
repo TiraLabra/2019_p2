@@ -38,8 +38,8 @@ Tarkempi aikataulu [täällä](fi/aikataulu/).
     document.write("Kysely demotilaisuuden aikatauluttamiseksi lähetetään kurssin puolivälin paikkeilla.")
    }
  </script>
- * Lopullinen palautus <script>document.write(fiString(timing["end"].date));</script>, tähän ei ole saatavilla lisäaikaa.
- * Jos löydät kurssisivuilta jotain parannettavaa. Voit seurata [täältä](fi/bug_bounty) löytyviä ohjeita virheen korjaamisesksi. Hyvistä korjauksista on mahdollista saada yhden kurssipisteen "bug bounty" (max 1 per oppilas)
+* Lopullinen palautus <script>document.write(fiString(timing["end"].date));</script>, tähän ei ole saatavilla lisäaikaa.
+* Jos löydät kurssisivuilta jotain parannettavaa. Voit seurata [täältä](fi/bug_bounty) löytyviä ohjeita virheen korjaamisesksi. Hyvistä korjauksista on mahdollista saada yhden kurssipisteen "bug bounty" (max 1 per oppilas)
 
 ## Linkkejä materiaaliin
 
@@ -63,8 +63,8 @@ Tarkempi aikataulu [täällä](fi/aikataulu/).
 
 ## 🗒️ Labtool
 
- * [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
- * Kirjaudu Yliopiston tunnuksilla.
+* [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
+* Kirjaudu Yliopiston tunnuksilla.
 
 ## IRC ja telegram
 
@@ -131,16 +131,16 @@ Hyväksi koettu tapa tehdä työ vaiheittain on laittaa ensin kuntoon algoritmin
 
 ## 📈 Arvosteluperusteet
 * Ohjelma: 30 p
-   * Toimivuus ja ominaisuudet 10 p
-   * Testaus 10 p
-   * Dokumentoiva koodi (JavaDoc sekä itsedokumentoiva) 5 p
-   * Ohjelmakoodin selkeys 5 p
+    * Toimivuus ja ominaisuudet 10 p
+    * Testaus 10 p
+    * Dokumentoiva koodi (JavaDoc sekä itsedokumentoiva) 5 p
+    * Ohjelmakoodin selkeys 5 p
 
 * Dokumentaatio 10 p
-   * Aiheen määrittely 2p
-   * Ongelman toteutus 3p
-   * Testaus 3p (myös suorituskykytestaus!)
-   * Käyttöohje 2p
+    * Aiheen määrittely 2p
+    * Ongelman toteutus 3p
+    * Testaus 3p (myös suorituskykytestaus!)
+    * Käyttöohje 2p
 
 * Arvostelu kurssin aikana 20p
     * Vertaisarvioinnit 2 * 2p = 4p

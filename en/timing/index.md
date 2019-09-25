@@ -10,7 +10,7 @@ permalink: /en/timing/
 
 * Submission 1: **<script>document.write(enString(timing["dl1"].date));</script>**
     * You have a topic, programming language and sense of project scope.
-      * You should consult with the course assistant if anything is unclear. If you are using Java and have selected a clearly valid topic you can move on to creating the project specification. If you have a topic you are uncertain about or if you are considering not using Java you should definitely discuss with the course assistant.
+        * You should consult with the course assistant if anything is unclear. If you are using Java and have selected a clearly valid topic you can move on to creating the project specification. If you have a topic you are uncertain about or if you are considering not using Java you should definitely discuss with the course assistant.
     * Documentation: Project specification done.
     * Check [documentation instructions](../documentation/)
     * Week 1 report: First weekly report is done (see [submissions](../submissions/))
@@ -94,11 +94,11 @@ permalink: /en/timing/
 * **Documentation:**
     * 100% clear and commented code. (If you are using Java, you should generate the Javadoc files and add or link them to your repository)
     * Done documentation:
-         * Project definition (No need to update unless specifically requested)
-         * Testing document
-         * Implementation document
-         * Weekly reports
-         * User guide
+        * Project definition (No need to update unless specifically requested)
+        * Testing document
+        * Implementation document
+        * Weekly reports
+        * User guide
 
 * **Program:**
     * Preferable and executable program in [github releases](https://help.github.com/en/articles/creating-releases) (e.g. a JAR-file for Java)
