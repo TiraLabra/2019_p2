@@ -22,7 +22,7 @@ const timing = {
     "end": {"date": "2019-10-25T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
-const doodleSent = false;
+const doodleSent = true;
 
 const enDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const enMonths = ["Jan.", "Feb.", "Mar.", "Apr.", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
