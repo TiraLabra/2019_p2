@@ -14,7 +14,29 @@ title: Tiralabra
 
 ## Ohjaaja
 
-* Saska Dönges, (etunimi@cs.helsinki.fi), saskeli@IRCnet
+<ul>
+<script>
+var script = document.scripts[document.scripts.length - 1];
+tas.forEach(ta => {
+  var elem = document.createElement("li");
+  s = ta.name;
+  if (ta.fiEmail) {
+    s = s + ", " + ta.fiEmail;
+  } else if (ta.email) {
+    s = s + ", " + ta.email;
+  } else {
+    s = s + ", (etunumi.sukunimi@helsinki.fi)"
+  }
+  if (ta.fiSocial) {
+    s = s + ", " + ta.fiSocial;
+  } else if (ta.social) {
+    s = s + ", " + ta.social;
+  }
+  elem.innerHTML = s;
+  script.parentElement.insertBefore(elem, script);
+});
+</script>
+</ul>
 
 ## 📅 Aikataulu
 
@@ -66,12 +88,7 @@ Tarkempi aikataulu [täällä](fi/aikataulu/).
 * [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
 * Kirjaudu Yliopiston tunnuksilla.
 
-## IRC ja telegram
-
-* Kurssin IRC-kanava on **#tiralabra** @IRCnet.
-* Kurssin [telegram-kanava](https://t.me/tkttiralabra).
-
-Telegram kanava on (yleensä) sillattu irkkiin, joten ohjaajaan päässee käsiksi kumpaakin kautta.
+## Kurssiin [telegram-kanava](https://t.me/tkttiralabra)
 
 ## Ohjaus
 

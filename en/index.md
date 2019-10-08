@@ -6,9 +6,30 @@ layout: home
 title: Data Structures Project, 2019 end of summer intensive period
 ---
 <script src="../assets/fuu.js"></script>
-## Course assistant
 
-* Saska Dönges, (given-name@cs.helsinki.fi), saskeli@IRCnet
+## Course assistants
+
+<script>
+var script = document.scripts[document.scripts.length - 1];
+tas.forEach(ta => {
+  var elem = document.createElement("li");
+  s = ta.name;
+  if (ta.enEmail) {
+    s = s + ", " + ta.enEmail;
+  } else if (ta.email) {
+    s = s + ", " + ta.email;
+  } else {
+    s = s + ", (first-name.last-name@helsinki.fi)"
+  }
+  if (ta.enSocial) {
+    s = s + ", " + ta.enSocial;
+  } else if (ta.social) {
+    s = s + ", " + ta.social;
+  }
+  elem.innerHTML = s;
+  script.parentElement.insertBefore(elem, script);
+});
+</script>
 
 ## 📅 Time table
 
@@ -60,12 +81,7 @@ Detailed course timing is available [here](timing/).
 * [https://study.cs.helsinki.fi/labtool/](https://study.cs.helsinki.fi/labtool/)
 * Sign in with your University of Helsinki account.
 
-## IRC and telegram
-
-* The course IRC channel is **#tiralabra** @IRCnet.
-* The Telegram channel can be found [here](https://t.me/tkttiralabra).
-
-Generally the Telegram and IRC chats are linked (bridged) together, so the course assistant will be available through both channels.
+## The course [Telegram channel](https://t.me/tkttiralabra)
 
 ## Guidance
 

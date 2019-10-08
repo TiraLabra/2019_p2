@@ -24,6 +24,23 @@ const timing = {
 
 const doodleSent = true;
 
+/*
+Available fields for TAs:
+    name     - required.
+    email    - will be used if present.
+    fiEmail  - will take precedende in Finnish materials if present.
+    enEmail  - will take precedende in English materials if present.
+    if no email is present, first-name.last-name.helsinki.fi will be used.
+    social   - will be used if present.
+    fiSocial - will take precedende in Finnish materials if present.
+    enSocial - will take precedende in English materials if present.
+*/
+const tas = [
+    //{"name": "Matti Nykänen", "email": "matti@matti.fi", "fiSocial": "maatti @IRCnet", "enSocial": "TG: @mattimatti"},
+    {"name": "Saska Dönges", "social": "TG: @saskeli"},
+    {"name": "Jussi Voipio"}
+];
+
 const enDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
 const enMonths = ["Jan.", "Feb.", "Mar.", "Apr.", "May", "June", "July", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
 
