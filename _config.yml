@@ -1,10 +1,10 @@
-title: "Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - 2019 p1"
-entitle: "Data Structures Project, 2019 p1"
+title: "Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - 2019 p2"
+entitle: "Data Structures Project, 2019 p2"
 email: ''
 description: "Helsingin yliopiston Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit - kurssin kurssisivu"
 endescription: "Course page for the Data Structures Project course at the University of Helsinki"
-baseurl: '/2019_p1' # the subpath of your site, e.g. /blog
-url: https://saskeli.github.io/2019_p1 # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/2019_p2' # the subpath of your site, e.g. /blog
+url: https://saskeli.github.io/2019_p2 # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
