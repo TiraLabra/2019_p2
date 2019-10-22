@@ -1,28 +1,29 @@
 const timing = {
-    "start": {"date": "2019-09-04", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "12-14 C222"},
-    "paja1": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja2": {"date": "2019-09-06", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
-    "paja3": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja4": {"date": "2019-09-13", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
-    "paja5": {"date": "2019-09-20", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja6": {"date": "2019-09-27", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja7": {"date": "2019-10-04", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja8": {"date": "2019-10-04", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
-    "paja9": {"date": "2019-10-11", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja10": {"date": "2019-10-11", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
-    "paja11": {"date": "2019-10-18", "en": "Workshop", "fi": "Paja", "common": "10-12 C221"},
-    "paja12": {"date": "2019-10-18", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
-    "dl1": {"date": "2019-09-07T01:59:59+03:00", "en": "DL 1", "fi": "DL 1"},
-    "dl2": {"date": "2019-09-14T01:59:59+03:00", "en": "DL 2", "fi": "DL 2"},
-    "dl3": {"date": "2019-09-21T01:59:59+03:00", "en": "DL 3", "fi": "DL 3"},
-    "dl4": {"date": "2019-09-28T01:59:59+03:00", "en": "DL 4", "fi": "DL 4"},
-    "dl5": {"date": "2019-10-05T01:59:59+03:00", "en": "DL 5", "fi": "DL 5"},
-    "dl6": {"date": "2019-10-12T01:59:59+03:00", "en": "DL 6", "fi": "DL 6"},
-    "demo": {"date": "2019-10-21", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 CK111"},
-    "end": {"date": "2019-10-25T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
+    "start": {"date": "2019-10-30", "fi": "Aloitusluento", "en": "Mandatory lecture", "common": "14-16 D123"},
+    "paja1": {"date": "2019-11-01", "en": "Workshop", "fi": "Paja", "common": "12-14 BK107"},
+    "paja2": {"date": "2019-11-01", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "paja3": {"date": "2019-11-08", "en": "Workshop", "fi": "Paja", "common": "12-14 BK107"},
+    "paja4": {"date": "2019-11-08", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "paja5": {"date": "2019-11-15", "en": "Workshop", "fi": "Paja", "common": "12-14 BK107"},
+    "paja6": {"date": "2019-11-15", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "paja7": {"date": "2019-11-22", "en": "Workshop", "fi": "Paja", "common": "12-14 BK107"},
+    "paja8": {"date": "2019-11-22", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "paja9": {"date": "2019-11-29", "en": "Workshop", "fi": "Paja", "common": "12-14 BK107"},
+    "paja10": {"date": "2019-11-29", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "paja11": {"date": "2019-12-13", "en": "Workshop", "fi": "Paja", "common": "12-14 BK107"},
+    "paja12": {"date": "2019-12-13", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "paja12": {"date": "2019-12-13", "en": "Workshop", "fi": "Paja", "common": "16-18 BK107"},
+    "dl1": {"date": "2019-11-02T01:59:59+03:00", "en": "DL 1", "fi": "DL 1"},
+    "dl2": {"date": "2019-11-09T01:59:59+03:00", "en": "DL 2", "fi": "DL 2"},
+    "dl3": {"date": "2019-11-16T01:59:59+03:00", "en": "DL 3", "fi": "DL 3"},
+    "dl4": {"date": "2019-11-23T01:59:59+03:00", "en": "DL 4", "fi": "DL 4"},
+    "dl5": {"date": "2019-11-30T01:59:59+03:00", "en": "DL 5", "fi": "DL 5"},
+    "dl6": {"date": "2019-12-07T01:59:59+03:00", "en": "DL 6", "fi": "DL 6"},
+    //"demo": {"date": "2019-10-21", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 CK111"},
+    "end": {"date": "2019-12-20T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
-const doodleSent = true;
+const doodleSent = false;
 
 /*
 Available fields for TAs:
@@ -30,7 +31,7 @@ Available fields for TAs:
     email    - will be used if present.
     fiEmail  - will take precedende in Finnish materials if present.
     enEmail  - will take precedende in English materials if present.
-    if no email is present, first-name.last-name.helsinki.fi will be used.
+    if no email is present, first-name.last-name@helsinki.fi will be used.
     social   - will be used if present.
     fiSocial - will take precedende in Finnish materials if present.
     enSocial - will take precedende in English materials if present.
@@ -38,7 +39,6 @@ Available fields for TAs:
 const tas = [
     //{"name": "Matti Nykänen", "email": "matti@matti.fi", "fiSocial": "maatti @IRCnet", "enSocial": "TG: @mattimatti"},
     {"name": "Saska Dönges", "social": "TG: @saskeli"},
-    {"name": "Jussi Voipio"}
 ];
 
 const enDays = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
