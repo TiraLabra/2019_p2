@@ -11,8 +11,8 @@ permalink: /fi/aikataulu/
 * Palautus 1: **<script>document.write(fiString(timing["dl1"].date));</script>**
     * Aihe, käytettävä ohjelmointikieli ja työn laajuus päätetty.
         * Juttele tarvittaessa ohjaajan kanssa. Jos toteutat jonkin valmiista aiheista Javalla ja kaikki on selvää, voit siirtyä suoraan määrittelydokumentin kirjoittamiseen. Jos haluat toteuttaa työn täysin omasta aiheesta tai erikoisemmalla kielellä, kannattaa asiasta jutella ennen palautuksen tekemistä.
+    * Tustustu kurssimateriaaliin. Lue ainakin [dokumentaatio-ohjeet](../dokumentaatio/) tarkkaan.
     * Dokumentaatio: Määrittelydokumentti valmis.
-    * Katso dokumentaatio-ohjeet [täältä](../dokumentaatio/)
     * Viikkoraportti numero 1: Kirjoitettu ensimmäinen viikkoraportti (ks. [Palautukset](../palautukset/))
 	* Katso, että repositoriosi etusivulle on linkattu suoraan viikkoraportit (nopeuttaa tarkastusta huomattavasti). Jos tarvitset apua markdownissa, niin katso GitHubin ohje: [https://guides.github.com/features/mastering-markdown/](https://guides.github.com/features/mastering-markdown/). Saat myös apua jos katsot esimerkiksi miten tämä tiedosto on tehty!
     * Projekti: Projekti luotu. Ohjeita tarvittaessa [täältä](../maven-gradle/). Alustettu versionhallinta (Github). Kaikki palautettava lisätään versionhallintaan, sähköpostilla ei palauteta mitään!
