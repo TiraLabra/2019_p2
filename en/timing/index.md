@@ -11,8 +11,8 @@ permalink: /en/timing/
 * Submission 1: **<script>document.write(enString(timing["dl1"].date));</script>**
     * You have a topic, programming language and sense of project scope.
         * You should consult with the course assistant if anything is unclear. If you are using Java and have selected a clearly valid topic you can move on to creating the project specification. If you have a topic you are uncertain about or if you are considering not using Java you should definitely discuss with the course assistant.
+    * Familiarize yourself with the course material. Especially the [documentation instructions](../documentation/).
     * Documentation: Project specification done.
-    * Check [documentation instructions](../documentation/)
     * Week 1 report: First weekly report is done (see [submissions](../submissions/))
     * Make sure that you have linked your weekly report and project specification to the repository front page to ease grading. If you need help with Markdown you can check this [guide](https://guides.github.com/features/mastering-markdown/), ask for help from the course assistant or just look at the source code for this file!
     * Project: Project has been created. Check [here](../maven-gradle/) for instructions if needed. GitHub version control is set up. Everything that needs to be submitted has been added to version control, nothing is submitted by email or pidgeon!
