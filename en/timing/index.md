@@ -31,7 +31,7 @@ permalink: /en/timing/
     * Preferably some tool for test coverage should be configured by now.
         * For java there are some instructions here for [PIT and jacoco](../maven-gradle). Codecov is also an option.
         * For other languages a code coverage should be provided each week for example through Codecov or github pages.
-    * Checkstyle or a similar code quality reporting tool would also be beneficial.
+    * Checkstyle or a similar code quality reporting tool would also be beneficial. You may want to consult with an instructor if you are not coding in java.
 
 # Week 3:
 
