@@ -1,16 +1,15 @@
 % Aineopintojen harjoitustyö: Tietorakenteet ja algoritmit (Tiralabra)
 % Saska Dönges
-% 4.9.2019
+% 30.10.2019
 
 # Ohjaajat
 
 - Ohjaajat
-    - Saska Dönges -- **saskeli** -- etunimi@cs.helsinki.fi
+    - Saska Dönges -- **saskeli** -- etunimi.sukunimi@helsinki.fi
 - Yhteyttä sähköpostilla tai irkissä kurssikanavalla
 
 - Telegram-kanava https://t.me/tkttiralabra/
-- IRC-kanava **#tiralabra** @ IRCnet
-- Kurssisivu https://tiralabra.github.io/2019_p1/
+- Kurssisivu https://tiralabra.github.io/2019_p2/
 
 # Mistä kyse?
 
@@ -18,11 +17,11 @@
 
 # Esitietovaatimukset
 
-- Esitietovaatimukset:
+- Esitietoja:
     - **TiRA**
         - Pakollinen
     - **OT**
-        - Todella hyödyllinen mutta kurssimateriaalesta löytyy tarvittavat tiedot testaamisen tekemiseen
+        - Todella hyödyllinen mutta kurssimateriaalesta löytyy tarvittavat tiedot testaamisen tekemiseen ja vähän esimerkkejä projektirakenteista
 - Tule juttelemaan, jos:
     - Olet käynyt kurssit, mutta olet esimerkiksi ollut poissa tentin aikana
     - Mikä tahansa muu puute esitietovaatimuksiin liittyen
@@ -46,6 +45,7 @@
     - Krypto
     - Peliratkaisijat (miinaharava, nonogrammi, pasianssit...)
     - Tekoälyt (Shakki, go...)
+        - Ks. uusi shakki templaatti gitistä! 
 - **Valitse ennen kaikkea jokin itseäsi kiinnostava aihe!**
 
 # Koodaustyyli
@@ -54,6 +54,7 @@
 - Projektin nimen olisi syytä olla kuvaava. Ohjaajalta menee hermo jos kaikkien projektien nimet ovat taas variaatioita nimestä "Tiralabra-2019".
 - Sovelletaan OT kurssilla opittuja projektirakenteita.
     - Ei kaikki koodi projektin juureen samaan tiedostoon.
+- Sovelletaan myös muita hyvän koodaustyylin perjaatteita kuten DRY ja Single responsibility.
 
 # Kurssin kulku
 
@@ -72,7 +73,7 @@
     - Yksilöohjausta voidan järjestää pyynöstä kampuksella
     - Täysin vapaaehtoista
     - **Paras väylä saada apua ja palautetta ohjaajilta**
-    - IRC tai telegram ei ole virallinen tietolähde, vaikka onkin kätevä
+    - Telegram ei ole virallinen tietolähde, vaikka onkin kätevä
     - Algopajasta voi saada apua algoritmien ja tietorakenteiden toteutukseen myös muuhun aikaan
 
 # Kurssin kulku
@@ -102,6 +103,6 @@
 # Kiitos!
 
 - **Tervetuloa kurssille!**
-- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2019_p1/
+- Kaikki tarvittava löytyy kurssisivulta: https://tiralabra.github.io/2019_p2/
     - Kannattaa käydä koko sivusto läpi tarkkaan!
 - Jään hetkeksi paikalle luennon jälkeen vastailemaan kysymyksiin
