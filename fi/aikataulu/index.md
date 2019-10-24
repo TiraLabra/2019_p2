@@ -31,7 +31,7 @@ permalink: /fi/aikataulu/
     * Olisi erittäin suositeltavaa että jo tässä vaiheessa projektin testikattavuus olisi seurattavissa.
         * Javalla vaihtoehtoina esimerkiksi PIT, jacoco tai codecov. Jotain ohjeita löytyy [täältä](../mave-gradle).
         * Muilla kielillä pitäisi viikoittain laittaa kattavuusraportti jonnekin näkyville. (Esim. codecov tai github pages).
-    * Myös checkstyle olisi hyvä olla konffattuna jo tässä vaiheessa jos ohjelmoit javalla.
+    * Myös checkstyle tai muu vastaava olisi hyvä olla konffattuna jo tässä vaiheessa. Kannattaa jutella ohjaajan kanssa jos laadun seuraamisessa on jotain epäselvää. 
 
 # Viikko 3:
 
