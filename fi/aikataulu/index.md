@@ -29,7 +29,7 @@ permalink: /fi/aikataulu/
     * Testaus: Koodin *kattava* yksikkötestaus. (esim. Javalla tehdyssä työssä JUnit)
 		* Varmista, että kun teet luokkia niin olet myös testannut ne mahdollisimman nopeasti/aikaisin (mieluiten testit samassa palautuksessa, kuin luokat on koodattu). Siten tiedät, että koodi, jonka juuri kirjoitit toimii kuten haluat. Tarvittaessa tutustu [yksikkötestaukseen tukimateriaalissa](https://github.com/TiraLabra/Testing-and-rmq).
     * Olisi erittäin suositeltavaa että jo tässä vaiheessa projektin testikattavuus olisi seurattavissa.
-        * Javalla vaihtoehtoina esimerkiksi PIT, jacoco tai codecov. Jotain ohjeita löytyy [täältä](../mave-gradle).
+        * Javalla vaihtoehtoina esimerkiksi PIT, jacoco tai codecov. Jotain ohjeita löytyy [täältä](../maven-gradle).
         * Muilla kielillä pitäisi viikoittain laittaa kattavuusraportti jonnekin näkyville. (Esim. codecov tai github pages).
     * Myös checkstyle tai muu vastaava olisi hyvä olla konffattuna jo tässä vaiheessa. Kannattaa jutella ohjaajan kanssa jos laadun seuraamisessa on jotain epäselvää. 
 
