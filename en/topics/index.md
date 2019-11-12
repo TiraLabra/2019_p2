@@ -29,7 +29,7 @@ You can either come up with your own topic or pick one from the ones below. The 
 
 * Chess, Go, expanded naughts and crosses and so on are fun and challenging games. Can you create an AI that can play against a human opponent as well as agains itself? How good is it?
 
-* For chess, working implementations have been seen using [xboard](https://www.gnu.org/software/xboard/) and [Lichess api](https://lichess.org/blog/WvDNticAAMu_mHKP/welcome-lichess-bots).
+* You can find a java template for a chess bot using [xboard](https://www.gnu.org/software/xboard/) and the [Lichess api](https://lichess.org/blog/WvDNticAAMu_mHKP/welcome-lichess-bots) from here: [https://github.com/TiraLabra/chess](https://github.com/TiraLabra/chess)
 
 * Rock-paper-scissors ia a very familiar game. Can you create an AI that beats a person? How about Rock-Paper-Scissors-Lizard-Spock. http://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg and http://www.youtube.com/watch?v=x5Q6-wMx-K8
 
