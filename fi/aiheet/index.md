@@ -29,7 +29,7 @@ Aiheen voi keksiä itse, tai valita alla olevasta listasta itselleen mielenkiint
 
 * Shakki, go, laajennettu risti-nolla jne  ovat hauskoja ja haastavia pelejä. Niitä olisi kiva pelata tietokonetta vastaan, tehtävänäsi on kehittää valitsemallesi pelille tekoäly. Tekoälyn pitää pystyä pelaamaan niin ihmistä kuin itseään vastaan.
 
-* Shakissa toimivia projekteja on tehty ainakin [xboard](https://www.gnu.org/software/xboard/) ja [lichess](https://lichess.org/blog/WvDNticAAMu_mHKP/welcome-lichess-bots) alustoille.
+* [xboard](https://www.gnu.org/software/xboard/) ja [lichess](https://lichess.org/blog/WvDNticAAMu_mHKP/welcome-lichess-bots) alustoja hyödyntävä java-projektipohja on tehty ohtuprojektina ja se löyty löytyy täältä: [https://github.com/TiraLabra/chess](https://github.com/TiraLabra/chess)
 
 * Kivi-sakset-paperi on kaikille tuttu peli. Onnistutko toteuttamaan tekoälyn, joka päihittää ohjaajan? Kun tekoälysi on hyvä voit jatkaa kehitystä ottamalla mukaan vielä kaksi vaihtoehtoa: Lisko ja Spock. http://upload.wikimedia.org/wikipedia/commons/a/ad/Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg sekä http://www.youtube.com/watch?v=x5Q6-wMx-K8. Huomaa että tämä aihe on tämä kurssin esitiedoilla aika hankala. Kannattaa ehdottomasti jutella ohjaajan kanssa jos tämä aihe kiinnostaa.
 
