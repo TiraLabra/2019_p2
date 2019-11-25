@@ -23,7 +23,7 @@ const timing = {
     "end": {"date": "2019-12-20T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
-const doodleSent = false;
+const doodleSent = true;
 
 /*
 Available fields for TAs:
