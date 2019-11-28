@@ -19,7 +19,7 @@ const timing = {
     "dl4": {"date": "2019-11-23T01:59:59+03:00", "en": "DL 4", "fi": "DL 4"},
     "dl5": {"date": "2019-11-30T01:59:59+03:00", "en": "DL 5", "fi": "DL 5"},
     "dl6": {"date": "2019-12-07T01:59:59+03:00", "en": "DL 6", "fi": "DL 6"},
-    //"demo": {"date": "2019-10-21", "fi": "Demotilaisuus", "en": "Demo Session", "common": "12-14 CK111"},
+    "demo": {"date": "2019-12-11", "fi": "Demotilaisuus", "en": "Demo Session", "common": "16-18 B119"},
     "end": {"date": "2019-12-20T23:59:59+03:00", "en": "Final submission", "fi": "Loppupalautus"}
 };
 
